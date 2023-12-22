@@ -1,0 +1,3 @@
+[submodule "zk-tutorials"]
+	path = zk-tutorials
+	url = https://github.com/kadirchan/zk-tutorials.git
